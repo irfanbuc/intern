@@ -1,0 +1,474 @@
+.background{
+    background-color: #DFE5EA;
+}
+.header{
+    
+    padding-bottom: 12px;
+    box-shadow: 0px 3px #D2D3D4;
+    background-color: #ffffff;
+    padding-top: 10px;
+}
+.title{
+    font-weight: 600;
+    padding-left: 35px;
+    margin-top: 15px;
+    font-size: x-large;
+    
+}
+.profile-picture{
+    border-radius: 50%;
+    width: 40px ;
+    height: 40px ;
+    float: right;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+.message-icon{
+    float: right;
+    width: 15px ;
+    height: 15px ;
+    margin-right: 18px;
+    margin-top: 10px;
+}
+.notification-icon{
+    width: 15px ;
+    height: 15px ;
+    float:right;
+    margin-right: 18px;
+    margin-top: 10px;
+}
+.arrow-bottom{
+    width: 10px;
+    height: 10px;
+    float: right;
+    margin-left: 10px;
+    margin-right: 25px;
+    margin-top: 10px;
+}
+.admin{
+    margin-top: 3px;
+    float: right;
+    font-weight: 500;
+    font-size: 14;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+.muted{
+    color: #ADADAE;  
+    font-size: x-small;
+    position: absolute;
+    margin-top: -4px;
+}
+.main-menu{
+    height: 810px;
+    width: 5%;
+    background-color: #2569ac;
+    float: left;
+}
+.sub-menu{
+    height: 810px;
+    width: 16%;
+    background-color: #2874c0;
+    float: left;
+    color: #C3C1C1;
+}
+.main{
+    margin-left: 320px;
+    margin-top: 20px;
+    font-weight: 600;
+    position: absolute;
+    width: 1100px;
+    left: 0;
+}
+.search-bar{
+    margin-top: 21px;
+    margin-right: 10px;
+    border-radius: 3px;
+    border: none;
+    border-color: #D9D9D9;
+    background-image:url(https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png);
+    background-position: 10px 10px;
+    background-size: 16px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 3px;
+    font-size: 11px;
+    width: 185px;
+    height: 24px;
+    color: #ADADAE;
+}
+.select-view{
+    font-size: 10;
+    font-weight: 600;
+    border-radius: 3px;
+    border-color:#D9D9D9;
+    width: 160px;
+    height: 26px;
+    color: #9E9A9A;
+    font-family: Arial, Helvetica, sans-serif ;
+
+}
+.alphabet{
+    font-size: 10;
+    font-weight: 600;
+    border-radius: 3px;
+    border-color:#D9D9D9;
+    height: 26px;
+    width: 160px;
+    color: #9E9A9A;
+    font-family: Arial, Helvetica, sans-serif ;
+    margin-left: 10px;
+}
+.btn-success{
+    width: 100px;
+    height: 26px;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    vertical-align: middle;
+}
+.user-roles{
+    float: right;
+    margin-right: 180px;
+    margin-top: 20px;
+    font-weight: 600;
+    height: 20px;
+    width: 80px;
+}
+.search-user{
+    border-radius: 3px;
+    background-image:url(https://cdn1.iconfinder.com/data/icons/hawcons/32/698956-icon-111-search-512.png);
+    background-position: 10px 10px;
+    background-size: 16px;
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 3px;
+    font-size: 11;
+    width: 216px;
+    height: 24px;
+    color: #ADADAE;
+    padding:5px;
+    border-collapse: collapse;
+    border: 1px solid #B6B1B1;
+
+}
+.user-input{
+    width: 237px;
+    height: 500px;
+    margin-top: 15px;
+    border: #D9D9D9;
+    background-color: #ffffff;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 25px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+}
+.avatar-circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
+    color: #ffffff;
+    float: left;
+    margin-right: 5px;
+    margin-left: 8px;
+}
+.user-details{
+    width: min-content;
+    height: min-content;
+    font-weight: 500;
+    font-size: 11px;
+}
+.initials{
+    margin-top: 3px;
+    position: absolute;
+    margin-left: -10px;   
+}
+.user-row{
+    margin-top: 25px;
+}
+.card-avatar{
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    font-size: 9px;
+    float: left;
+    line-height: 17px;
+    font-weight: 500;
+    text-align: center;
+    color: #ffffff;
+    margin-right: 3px;
+    font-display: auto;   
+}
+.scheduling{
+    background-color: #4C4C4C;
+}
+.biling{
+    background-color: #BD62E3;
+}
+.manager{
+    background-color: #62A3E3;
+}
+.supervisor{
+    background-color: #152BE9;
+}
+.s{
+    margin-left: -5px;
+}
+.i{
+    margin-left: -2px;
+}
+.m{
+    margin-left: -7px;
+}
+.marketing{
+    background-color: #0A616B;
+}
+.ma-rgin{
+    margin-left: -13px;
+}
+.administration{
+    background-color: #D023B9;
+}
+.sales{
+    background-color: #A9761E;
+}
+.human-resource{
+    background-color: #152BE9;
+}
+.investors{
+    background-color: #0A616B;
+}
+.new-employees{
+    background-color: #A67CAF;
+}
+.body-page{
+    margin-top: 115px;
+
+}
+
+.card{
+    float: left;
+    margin-left: 36px;
+    margin-bottom: 20px;
+    width: 221px;
+    height: 288px;
+}
+.card.body{
+    width: 100px;
+    height: 200px;
+    border-top: 1px solid #4C4C4C;
+}
+.card-img-top{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.card-title{
+    font-size: 13px;
+    text-align: center;
+    margin-top: -10px;
+}
+.card-icon{
+    margin-top: -25px;
+    margin-left: 50px;
+    text-align: center;
+}
+.three-icons{
+    margin-left:80px;
+}
+.four-icons{
+    margin-left: 70px;    
+}
+.btn-primary{
+    float:right;
+    width: 90px;
+    height: 30px;
+    margin-right: 18px;
+    text-align: center;
+    font-size: 11px;
+}
+.btn-secondary{
+    background-color: #ADADAE;
+    width: 90px;
+    height: 30px;
+    float:left;
+    margin-left: 18px;
+    text-align: center;
+    font-size: 11px;
+}
+.muted-mobile{
+    margin-left: 30px;
+    float: left;
+}
+.muted-location{
+    float:left;
+    margin-left: 143px;
+}
+.mobile{
+    font-size: 10px;
+    font-weight: bolder;
+    float: left;
+    margin-left: 30px;
+    margin-top: -10px;
+}
+.location{
+    float: right;
+    margin-right: 30px;
+    font-size: 10px;
+    font-weight: bolder;
+    margin-top: -10px;
+}
+.created-activity{
+    margin-top: 10px;
+}
+.buttons-div{
+    margin-top: 15px;
+}
+.muted-activity{
+    float:left;
+    margin-left: 143px;
+}
+.activity{
+    float:left;
+    margin-left: 143px;
+    font-size: 10px;
+    font-weight: bolder;
+    margin-top: -14px;
+}
+.btn-default{
+    margin-top: 20px;
+}
+.sub-title{
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: bolder;
+    width: max-content;
+    height: max-content;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 17px;
+    margin-left: 30px;
+}
+.progress{
+    margin-bottom: 40px;
+    background-color: #234352;
+    height: 5px;
+    width: 180px;
+    margin-top: -130px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.progress-bar{
+    background-color: #ffffff;
+}
+.progress-number{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: -150px;
+    padding-bottom: 10px;
+    float: left;
+    margin-left: 20px;
+}
+.percentage{
+    float: right;
+    margin-right: 20px;
+
+}
+.sub-footer{
+    margin-top:665px;
+}
+.sub-user-roles{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 40px;
+    margin-left: 65px;
+    font-weight: 400;
+    float: left;
+    font-size: 12px;
+}
+.sub-users{
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -32px;
+    margin-left: 65px;
+    font-weight: 400;
+    float: left;
+    font-size: 13px;
+}
+.gray-line{
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.card>hr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.btn{
+    color: #ffffff;
+}
+.btn-menu{
+    margin-top: 12px;
+}
+.btn-home{
+    margin-top: 35px;
+}
+.btn-settings{
+    margin-top: 17px;
+}
+.btn-user{
+    margin-top: 17px;
+    width: max-content;
+}
+.btn-lock{
+    margin-top:17px;
+}
+.btn-sign-out{
+    margin-top: 470px;
+}
+.fa-list-ul{
+    float: left;
+    margin-top: 56px;
+    margin-left: -130;
+}
+.detail-roles{
+    margin-top: 55px;
+    margin-left: 65px;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.fa-user-friends{
+    margin-left: 16px;
+    margin-top: 20px;
+}
+.manage-sub-users{
+    font-size: 9px;
+    margin-left: 65px;
+    margin-top: -37px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn:hover{
+    background-color: #3E6CC8;
+    width: max-content;
+}
+.sub-users:hover{
+    background-color: #3E6CC8;
+    width: max-content;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
